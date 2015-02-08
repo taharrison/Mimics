@@ -1,3 +1,8 @@
+To install Mimics, run the following command in the Package Manager Console:
+```
+PM> Install-Package Mimics -Pre
+```
+
 # Mimics
 *A new way to isolation test legacy .NET code - record existing behaviour and assert nothing has changed as you refactor.*
 
